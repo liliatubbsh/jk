@@ -1,5 +1,9 @@
 using Fashinista.core.common;
+using Fashinista.core.Repository;
+using Fashinista.core.Services;
 using Fashinista.infra.common;
+using Fashinista.infra.Repository;
+using Fashinista.infra.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -28,7 +32,9 @@ namespace Fashinista.api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddScoped<IdbContext, dbContext>();
+            services.AddScoped<IdbContext,dbContext>();
+            services.AddScoped<IAgeRepository, AgeRepository>();
+            services.AddScoped<IAgeServices,AgeServices>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
