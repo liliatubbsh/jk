@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AMCT\\source\\repos\\Fashinista.api\\Fashinista.api\\Fashinista.api.csproj": {}
+    "C:\\Users\\Otaibah toppsh\\Source\\Repos\\Fashinista.api\\Fashinista.api\\Fashinista.api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AMCT\\source\\repos\\Fashinista.api\\Fashinista.api\\Fashinista.api.csproj": {
+    "C:\\Users\\Otaibah toppsh\\Source\\Repos\\Fashinista.api\\Fashinista.api\\Fashinista.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AMCT\\source\\repos\\Fashinista.api\\Fashinista.api\\Fashinista.api.csproj",
+        "projectUniqueName": "C:\\Users\\Otaibah toppsh\\Source\\Repos\\Fashinista.api\\Fashinista.api\\Fashinista.api.csproj",
         "projectName": "Fashinista.api",
-        "projectPath": "C:\\Users\\AMCT\\source\\repos\\Fashinista.api\\Fashinista.api\\Fashinista.api.csproj",
-        "packagesPath": "C:\\Users\\AMCT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AMCT\\source\\repos\\Fashinista.api\\Fashinista.api\\obj\\",
+        "projectPath": "C:\\Users\\Otaibah toppsh\\Source\\Repos\\Fashinista.api\\Fashinista.api\\Fashinista.api.csproj",
+        "packagesPath": "C:\\Users\\Otaibah toppsh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Otaibah toppsh\\Source\\Repos\\Fashinista.api\\Fashinista.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\AMCT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Otaibah toppsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\AMCT\\source\\repos\\Fashinista.api\\Fashinista.core\\Fashinista.core.csproj": {
-                "projectPath": "C:\\Users\\AMCT\\source\\repos\\Fashinista.api\\Fashinista.core\\Fashinista.core.csproj"
+              "C:\\Users\\Otaibah toppsh\\Source\\Repos\\Fashinista.api\\Fashinista.core\\Fashinista.core.csproj": {
+                "projectPath": "C:\\Users\\Otaibah toppsh\\Source\\Repos\\Fashinista.api\\Fashinista.core\\Fashinista.core.csproj"
               },
-              "C:\\Users\\AMCT\\source\\repos\\Fashinista.api\\Fashinista.infra\\Fashinista.infra.csproj": {
-                "projectPath": "C:\\Users\\AMCT\\source\\repos\\Fashinista.api\\Fashinista.infra\\Fashinista.infra.csproj"
+              "C:\\Users\\Otaibah toppsh\\Source\\Repos\\Fashinista.api\\Fashinista.infra\\Fashinista.infra.csproj": {
+                "projectPath": "C:\\Users\\Otaibah toppsh\\Source\\Repos\\Fashinista.api\\Fashinista.infra\\Fashinista.infra.csproj"
               }
             }
           }
@@ -46,6 +46,34 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[3.21.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -64,21 +92,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\AMCT\\source\\repos\\Fashinista.api\\Fashinista.core\\Fashinista.core.csproj": {
+    "C:\\Users\\Otaibah toppsh\\Source\\Repos\\Fashinista.api\\Fashinista.core\\Fashinista.core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AMCT\\source\\repos\\Fashinista.api\\Fashinista.core\\Fashinista.core.csproj",
+        "projectUniqueName": "C:\\Users\\Otaibah toppsh\\Source\\Repos\\Fashinista.api\\Fashinista.core\\Fashinista.core.csproj",
         "projectName": "Fashinista.core",
-        "projectPath": "C:\\Users\\AMCT\\source\\repos\\Fashinista.api\\Fashinista.core\\Fashinista.core.csproj",
-        "packagesPath": "C:\\Users\\AMCT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AMCT\\source\\repos\\Fashinista.api\\Fashinista.core\\obj\\",
+        "projectPath": "C:\\Users\\Otaibah toppsh\\Source\\Repos\\Fashinista.api\\Fashinista.core\\Fashinista.core.csproj",
+        "packagesPath": "C:\\Users\\Otaibah toppsh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Otaibah toppsh\\Source\\Repos\\Fashinista.api\\Fashinista.core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\AMCT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Otaibah toppsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -103,6 +131,34 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[3.21.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -118,21 +174,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\AMCT\\source\\repos\\Fashinista.api\\Fashinista.infra\\Fashinista.infra.csproj": {
+    "C:\\Users\\Otaibah toppsh\\Source\\Repos\\Fashinista.api\\Fashinista.infra\\Fashinista.infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AMCT\\source\\repos\\Fashinista.api\\Fashinista.infra\\Fashinista.infra.csproj",
+        "projectUniqueName": "C:\\Users\\Otaibah toppsh\\Source\\Repos\\Fashinista.api\\Fashinista.infra\\Fashinista.infra.csproj",
         "projectName": "Fashinista.infra",
-        "projectPath": "C:\\Users\\AMCT\\source\\repos\\Fashinista.api\\Fashinista.infra\\Fashinista.infra.csproj",
-        "packagesPath": "C:\\Users\\AMCT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AMCT\\source\\repos\\Fashinista.api\\Fashinista.infra\\obj\\",
+        "projectPath": "C:\\Users\\Otaibah toppsh\\Source\\Repos\\Fashinista.api\\Fashinista.infra\\Fashinista.infra.csproj",
+        "packagesPath": "C:\\Users\\Otaibah toppsh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Otaibah toppsh\\Source\\Repos\\Fashinista.api\\Fashinista.infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\AMCT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Otaibah toppsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -146,8 +202,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\AMCT\\source\\repos\\Fashinista.api\\Fashinista.core\\Fashinista.core.csproj": {
-                "projectPath": "C:\\Users\\AMCT\\source\\repos\\Fashinista.api\\Fashinista.core\\Fashinista.core.csproj"
+              "C:\\Users\\Otaibah toppsh\\Source\\Repos\\Fashinista.api\\Fashinista.core\\Fashinista.core.csproj": {
+                "projectPath": "C:\\Users\\Otaibah toppsh\\Source\\Repos\\Fashinista.api\\Fashinista.core\\Fashinista.core.csproj"
               }
             }
           }
@@ -164,15 +220,29 @@
           "dependencies": {
             "Dapper": {
               "target": "Package",
-              "version": "[2.0.123, )"
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
             },
             "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[5.0.0, )"
             },
-            "Oracle.ManagedDataAccess": {
+            "Oracle.ManagedDataAccess.Core": {
               "target": "Package",
-              "version": "[21.5.0, )"
+              "version": "[3.21.4, )"
             }
           },
           "imports": [
@@ -190,7 +260,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

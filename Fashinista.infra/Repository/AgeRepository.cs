@@ -20,7 +20,7 @@ namespace Fashinista.infra.Repository
         public bool Delete_Age(int id)
         {
             var p = new DynamicParameters();
-            p.Add("ID_Age", p, dbType: DbType.Int32, direction: ParameterDirection.Input);
+            p.Add("ID_Age", id, dbType: DbType.Int32, direction: ParameterDirection.Input);
             var item = context.connection.ExecuteAsync("Age_Package.Delete_Age", p, commandType: CommandType.StoredProcedure);
             return true;
         }

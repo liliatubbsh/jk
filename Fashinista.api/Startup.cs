@@ -31,10 +31,28 @@ namespace Fashinista.api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllers();
+            
             services.AddScoped<IdbContext,dbContext>();
+
             services.AddScoped<IAgeRepository, AgeRepository>();
             services.AddScoped<IAgeServices,AgeServices>();
+
+            services.AddScoped<ICategoryRepository,CategoryRepository>();
+            services.AddScoped<ICategoryServices,CategoryServices>();
+
+            services.AddScoped<IColorRepository, ColorRepository>();
+            services.AddScoped<IColorServices, ColorServices>();
+
+            services.AddScoped<IMessageRepository, MessageRepository>();
+            services.AddScoped<IMessageServices,MessageServices>();
+
+            services.AddScoped<ITestimonialRepository, TestimonialRepository>();
+            services.AddScoped<ITestimonialServices, TestimonialServices>();
+
+            services.AddScoped<IOfferRepository,OfferRepository>();
+            services.AddScoped<IOfferServices,OfferServices>();
+
+            services.AddControllers();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

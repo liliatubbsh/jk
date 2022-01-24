@@ -8,9 +8,8 @@ namespace Fashinista.core.Data
     {
         public decimal Id { get; set; }
         public decimal Amount { get; set; }
-        public DateTime FromDate { get; set; }
-        public DateTime ToDate { get; set; }
-
+        public DateTime From_Date { get; set; }
+        public DateTime To_Date { get; set; }
         public virtual ICollection<Product> Products { get; set; }
     }
 }

@@ -1,0 +1,13 @@
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.core\bin\Debug\netcoreapp3.1\Fashinista.core.deps.json
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.core\bin\Debug\netcoreapp3.1\Fashinista.core.runtimeconfig.json
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.core\bin\Debug\netcoreapp3.1\Fashinista.core.runtimeconfig.dev.json
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.core\bin\Debug\netcoreapp3.1\Fashinista.core.dll
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.core\bin\Debug\netcoreapp3.1\Fashinista.core.pdb
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.core\obj\Debug\netcoreapp3.1\Fashinista.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.core\obj\Debug\netcoreapp3.1\Fashinista.core.AssemblyInfoInputs.cache
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.core\obj\Debug\netcoreapp3.1\Fashinista.core.AssemblyInfo.cs
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.core\obj\Debug\netcoreapp3.1\Fashinista.core.csproj.CoreCompileInputs.cache
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.core\obj\Debug\netcoreapp3.1\Fashinista.core.dll
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.core\obj\Debug\netcoreapp3.1\Fashinista.core.pdb
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.core\obj\Debug\netcoreapp3.1\Fashinista.core.genruntimeconfig.cache
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.core\obj\Debug\netcoreapp3.1\Fashinista.core.csproj.AssemblyReference.cache

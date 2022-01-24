@@ -1,0 +1,16 @@
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.infra\obj\Debug\netcoreapp3.1\Fashinista.infra.csproj.AssemblyReference.cache
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.infra\obj\Debug\netcoreapp3.1\Fashinista.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.infra\obj\Debug\netcoreapp3.1\Fashinista.infra.AssemblyInfoInputs.cache
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.infra\obj\Debug\netcoreapp3.1\Fashinista.infra.AssemblyInfo.cs
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.infra\obj\Debug\netcoreapp3.1\Fashinista.infra.csproj.CoreCompileInputs.cache
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.infra\bin\Debug\netcoreapp3.1\Fashinista.infra.deps.json
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.infra\bin\Debug\netcoreapp3.1\Fashinista.infra.runtimeconfig.json
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.infra\bin\Debug\netcoreapp3.1\Fashinista.infra.runtimeconfig.dev.json
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.infra\bin\Debug\netcoreapp3.1\Fashinista.infra.dll
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.infra\bin\Debug\netcoreapp3.1\Fashinista.infra.pdb
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.infra\bin\Debug\netcoreapp3.1\Fashinista.core.dll
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.infra\bin\Debug\netcoreapp3.1\Fashinista.core.pdb
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.infra\obj\Debug\netcoreapp3.1\Fashinista.infra.csproj.CopyComplete
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.infra\obj\Debug\netcoreapp3.1\Fashinista.infra.dll
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.infra\obj\Debug\netcoreapp3.1\Fashinista.infra.pdb
+C:\Users\Otaibah toppsh\Source\Repos\Fashinista.api\Fashinista.infra\obj\Debug\netcoreapp3.1\Fashinista.infra.genruntimeconfig.cache
